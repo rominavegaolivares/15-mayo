@@ -2,7 +2,7 @@
 <html lang="es">
 <?php
 $title = "Maternidad obligada";
-$descripcion = "Pongan acá su descripción.";
+$descripcion = "Influencia de los juegos, películas y series infantiles, como reflejo de la sociedad, en el sentimiento de obligación de las mujeres de ser madres.";
 ?>
 <head>
 <meta charset="utf-8">
